@@ -2,6 +2,9 @@
 
 This repository contains code for predicting heart failure using AutoGluon, an automated machine learning (AutoML) library. AutoGluon automates the process of training and tuning machine learning models, making it easier to develop high-performing models with minimal manual effort.
 
+# Results
+![Results](https://github.com/lucaslov/heart-failure-prediction-autogluon/blob/main/result.png?raw=true)
+
 ## Requirements
 - Python 3.x
 - autogluon
